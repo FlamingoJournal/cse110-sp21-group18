@@ -1,8 +1,8 @@
 <h1 style="text-align:center">Team 18 Team Page</h1>
 
-<table>
+<table style="border: 1px solid transparent">
     <tr>
-        <td style="width:170px">
+        <td style="width:300px">
             <img src="images/Amal_picture.png">
         </td>
         <td>
