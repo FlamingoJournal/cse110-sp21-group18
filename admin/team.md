@@ -44,6 +44,7 @@
     <p>Hi, my name is Angel Martinez and I'm a team member of Group 18. I'm a third year student majoring in Mathematics-Computer Science. Some of my hobbies include playing video games, listening to music, and watching TV Shows/Movies/Anime. </p>
     </td>
 </tr>
+<tr>
     <td><img src="images/Yue_picture.png" width="300" alt="Anokhi Profile Picture"></td>
     <td>
     <h2>Yue Zhuo</h2>
