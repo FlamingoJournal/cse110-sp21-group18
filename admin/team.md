@@ -23,3 +23,9 @@
     <p>Hi, I'm Anokhi Mehta and I'm a team member of Group 18. I'm a Computer Science major at UCSD and my main interests lie in software engineering. In my free time, I like to dance competitively, do arts and crafts, and bake! </p>
     </td>
 </tr>
+  <tr>
+    <td><img src="images/Matthew_picture.png" width="300" alt="Matthew Profile Picture"></td>
+    <td>
+    <h2>Matthew Jiang</h2>
+    <p>Hello, I'm Matthew. When I'm not busy with school, I have a couple of uninteresting hobbies like playing video games (especially rhythm games), going jogging, and watching random interesting videos on the internet. </p>
+</tr>
