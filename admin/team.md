@@ -16,3 +16,10 @@
     <p>I am one of the team leads for this project. My hobbies include playing bass/guitar, listening to music, playing videogames, and watching YouTube/Anime. Some of my favorite music artists include Daft Punk, Charlie Puth, and ONEOKROCK.</p>
     </td>
 </tr>
+<tr>
+    <td><img src="images/Anokhi_picture.png" width="300" alt="Anokhi Profile Picture"></td>
+    <td>
+    <h2>Anokhi Mehta</h2>
+    <p>Hi, I'm Anokhi Mehta and I'm a team member of Group 18. I'm a Computer Science major at UCSD and my main interests lie in software engineering. In my free time, I like to dance competitively, do arts and crafts, and bake! </p>
+    </td>
+</tr>
