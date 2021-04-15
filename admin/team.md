@@ -7,6 +7,7 @@
     <td>
     <h2>Amal Kaduwela</h2>
     <p>My name is Amal Kaduwela and I am one of two Team Leads for Team 18. One of my favorite things to do is listen to music: I mainly listen to Rap and Hip Hop. My top 3 artists at the moment are probably Lil Baby, Lil Skies, and Polo G.</p>
+    <a href="https://akaduwel1.github.io/Github-Pages/">Link to GitHub Page</a>
     </td>
 </tr>
 <tr>
@@ -27,13 +28,21 @@
     <td><img src="images/Matthew_picture.png" width="300" alt="Matthew Profile Picture"></td>
     <td>
     <h2>Matthew Jiang</h2>
-    <p>Hello, I'm Matthew. When I'm not busy with school, I have a couple of uninteresting hobbies like playing video games (especially rhythm games), going jogging, and watching random interesting videos on the internet. </p>
+    <p>Hello, I'm Matthew Jiang, a team member of Group 18 and a third year CS major. When I'm not busy with school, I have a couple of uninteresting hobbies like playing video games (especially rhythm games), going jogging, and watching random interesting videos on the internet. </p>
+        <a href="https://mmjiang-ucsd.github.io/">Link to GitHub Page</a>
 </tr>
 <tr>
     <td><img src="images/sergiot_pic.png" width="300" alt="Anokhi Profile Picture"></td>
     <td>
     <h2>Sergio Talavera</h2>
     <p>Hi, my name is Sergio Talavera and I'm a team member of Group 18. I'm a second year transfer student majoring in Computer Engineering. Some of my hobbies include skateboarding, playing video games, listening to music, and cooking. My favorite music artists include Isaiah Rashad, The Strokes, Tyler the Creator, and Danny Brown. </p>
+    </td>
+</tr>
+<tr>
+    <td><img src="images/Angel_picture.png" width="300" alt="Angel Profile Picture"></td>
+    <td>
+    <h2>Angel Martinez</h2>
+    <p>Hi, my name is Angel Martinez and I'm a team member of Group 18. I'm a third year student majoring in Mathematics-Computer Science. Some of my hobbies include playing video games, listening to music, and watching TV Shows/Movies/Anime. </p>
     </td>
 </tr>
 <tr>
