@@ -15,6 +15,7 @@
     <td>
     <h2>Kunal Singla</h2>
     <p>I am one of the team leads for this project. My hobbies include playing bass/guitar, listening to music, playing videogames, and watching YouTube/Anime. Some of my favorite music artists include Daft Punk, Charlie Puth, and ONEOKROCK.</p>
+    <a href="https://tekunalogy.com">Link to GitHub Page</a>
     </td>
 </tr>
 <tr>
