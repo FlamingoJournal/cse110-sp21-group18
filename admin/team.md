@@ -45,6 +45,7 @@
     <td>
     <h2>Angel Martinez</h2>
     <p>Hi, my name is Angel Martinez and I'm a team member of Group 18. I'm a third year student majoring in Mathematics-Computer Science. Some of my hobbies include playing video games, listening to music, and watching TV Shows/Movies/Anime. </p>
+    <a href="https://angel-mtzv.github.io/">Link to GitHub Page</a>
     </td>
 </tr>
 <tr>
