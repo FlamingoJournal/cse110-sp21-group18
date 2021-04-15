@@ -29,3 +29,10 @@
     <h2>Matthew Jiang</h2>
     <p>Hello, I'm Matthew. When I'm not busy with school, I have a couple of uninteresting hobbies like playing video games (especially rhythm games), going jogging, and watching random interesting videos on the internet. </p>
 </tr>
+<tr>
+    <td><img src="images/sergiot_pic.png" width="300" alt="Anokhi Profile Picture"></td>
+    <td>
+    <h2>Sergio Talavera</h2>
+    <p>Hi, my name is Sergio Talavera and I'm a team member of Group 18. I'm a second year transfer student majoring in Computer Engineering. Some of my hobbies include skateboarding, playing video games, listening to music, and cooking. My favorite music artists include Isaiah Rashad, The Strokes, Tyler the Creator, and Danny Brown. </p>
+    </td>
+</tr>
