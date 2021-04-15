@@ -16,3 +16,10 @@
     <p>I am one of the team leads for this project. My hobbies include playing bass/guitar, listening to music, playing videogames, and watching YouTube/Anime. Some of my favorite music artists include Daft Punk, Charlie Puth, and ONEOKROCK.</p>
     </td>
 </tr>
+<tr>
+    <td><img src="images/Matthew_picture.png" width="300" alt="Matthew Profile Picture"></td>
+    <td>
+    <h2>Matthew Jiang</h2>
+    <p>Hello, I'm Matthew. When I'm not busy with school, I have a couple of uninteresting hobbies like playing video games (especially rhythm games), going jogging, and watching random interesting videos on the internet. </p>
+    </td>
+</tr>
