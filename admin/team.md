@@ -23,6 +23,7 @@
     <td>
     <h2>Anokhi Mehta</h2>
     <p>Hi, I'm Anokhi Mehta and I'm a team member of Group 18. I'm a Computer Science major at UCSD and my main interests lie in software engineering. In my free time, I like to dance competitively, do arts and crafts, and bake! </p>
+    <a href=https://anokhimehta.github.io/User-Page>Link to GitHub Page</a>
     </td>
 </tr>
 <tr>
