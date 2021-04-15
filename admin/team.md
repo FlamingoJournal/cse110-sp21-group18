@@ -7,6 +7,7 @@
     <td>
     <h2>Amal Kaduwela</h2>
     <p>My name is Amal Kaduwela and I am one of two Team Leads for Team 18. One of my favorite things to do is listen to music: I mainly listen to Rap and Hip Hop. My top 3 artists at the moment are probably Lil Baby, Lil Skies, and Polo G.</p>
+    <a href="https://akaduwel1.github.io/Github-Pages/">Link to GitHub Page</a>
     </td>
 </tr>
 <tr>
@@ -41,5 +42,11 @@
     <td>
     <h2>Angel Martinez</h2>
     <p>Hi, my name is Angel Martinez and I'm a team member of Group 18. I'm a third year student majoring in Mathematics-Computer Science. Some of my hobbies include playing video games, listening to music, and watching TV Shows/Movies/Anime. </p>
+    </td>
+</tr>
+    <td><img src="images/Yue_picture.png" width="300" alt="Anokhi Profile Picture"></td>
+    <td>
+    <h2>Yue Zhuo</h2>
+    <p>Hi, my name is Yue Zhuo and I'm a team member of Group 18. This is my second year at UCSD. My major is Computer Engineering. My hobby is watching movies and listening to the music. My favorite movie is Avatar. My favorite movie star is Jackie Chan.</p>
     </td>
 </tr>
