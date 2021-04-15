@@ -39,7 +39,7 @@
 <tr>
     <td><img src="images/Yue_picture.png" width="300" alt="Anokhi Profile Picture"></td>
     <td>
-    <h2>Sergio Talavera</h2>
+    <h2>Yue Zhuo</h2>
     <p>Hi, my name is Yue Zhuo and I'm a team member of Group 18. This is my second year at UCSD. My major is Computer Engineering. My hobby is watching movies and listening to the music. My favorite movie is Avatar. My favorite movie star is Jackie Chan.</p>
     </td>
 </tr>
