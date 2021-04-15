@@ -36,3 +36,10 @@
     <p>Hi, my name is Sergio Talavera and I'm a team member of Group 18. I'm a second year transfer student majoring in Computer Engineering. Some of my hobbies include skateboarding, playing video games, listening to music, and cooking. My favorite music artists include Isaiah Rashad, The Strokes, Tyler the Creator, and Danny Brown. </p>
     </td>
 </tr>
+<tr>
+    <td><img src="images/Yue_picture.png" width="300" alt="Anokhi Profile Picture"></td>
+    <td>
+    <h2>Sergio Talavera</h2>
+    <p>Hi, my name is Yue Zhuo and I'm a team member of Group 18. This is my second year at UCSD. My major is Computer Engineering. My hobby is watching movies and listening to the music. My favorite movie is Avatar. My favorite movie star is Jackie Chan.</p>
+    </td>
+</tr>
