@@ -1,4 +1,4 @@
-* **Team Info:** Group 18 / [Team Name Undecided]
+* **Team Info:** Group 18 / Frontend Flamingos
 * **Meeting Title:** Team Branding Meeting
 * **Present Members:**
   - Kunal Singla
