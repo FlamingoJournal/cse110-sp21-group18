@@ -64,4 +64,11 @@
     <a href="https://anayak0824.github.io/Lab-1/">Link to GitHub Page</a>
     </td>
 </tr>
+<tr>
+    <td><img src="images/Anudeep.png" width="300" alt="Anudeep Profile Picture"></td>
+    <td>
+    <h2>Anudeep Alam</h2>
+    <p>Hi, My name is Anudeep Alam, and I'm a second year CS major at UCSD. During my free time, I usually spent my time playing league of legends or going outside to chill with my friends.</p>
+    </td>
+</tr>
 
