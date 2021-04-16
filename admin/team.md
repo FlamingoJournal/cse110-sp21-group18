@@ -63,4 +63,11 @@
     <p>My name is Avinash Nayak, and I'm a second year CS major at UCSD. During my free time, I like to run, play basketball, watch TV/anime, and play video games; I also like to relax and listen to music as well while working.</p>
     </td>
 </tr>
+<tr>
+    <td><img src="images/Anudeep.png" width="300" alt="Anudeep Profile Picture"></td>
+    <td>
+    <h2>Anudeep Alam</h2>
+    <p>Hi, My name is Anudeep Alam, and I'm a second year CS major at UCSD. During my free time, I usually spent my time playing league of legends or going outside to chill with my friends.</p>
+    </td>
+</tr>
 
