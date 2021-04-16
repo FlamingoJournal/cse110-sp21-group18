@@ -60,8 +60,8 @@
     <td><img src="images/Avinash.png" width="300" alt="Avinash Profile Picture"></td>
     <td>
     <h2>Avinash Nayak</h2>
-    <p>My name is Avinash Nayak, and I'm a second year CS major at UCSD. During my free time, I like to run, play basketball, watch TV/anime, and play video games; I also like to relax and listen to music as well while working.</p>
-    </td>
+    <p>My name is Avinash Nayak, and I'm a second year CS major at UCSD. During my free time, I like to run, play basketball, watch TV/anime, and play video games; I also like to relax and listen to music as well while working. </p>
     <a href="https://anayak0824.github.io/Lab-1/">Link to GitHub Page</a>
+    </td>
 </tr>
 
