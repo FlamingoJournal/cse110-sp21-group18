@@ -30,11 +30,11 @@
     <td><img src="images/Matthew_picture.png" width="300" alt="Matthew Profile Picture"></td>
     <td>
     <h2>Matthew Jiang</h2>
-    <p>Hello, I'm Matthew Jiang, a team member of Group 18 and a third year CS major. When I'm not busy with school, I have a couple of uninteresting hobbies like playing video games (especially rhythm games), going jogging, and watching random interesting videos on the internet. </p>
+    <p>Hello, I'm Matthew Jiang, a third year CS major. When I'm not busy with school, I have a couple of uninteresting hobbies like playing video games (especially rhythm games), going jogging, and watching random interesting videos on the internet. </p>
         <a href="https://mmjiang-ucsd.github.io/">Link to GitHub Page</a>
 </tr>
 <tr>
-    <td><img src="images/sergiot_pic.png" width="300" alt="Anokhi Profile Picture"></td>
+    <td><img src="images/sergiot_pic.png" width="300" alt="Sergio Profile Picture"></td>
     <td>
     <h2>Sergio Talavera</h2>
     <p>Hi, my name is Sergio Talavera and I'm a team member of Group 18. I'm a second year transfer student majoring in Computer Engineering. Some of my hobbies include skateboarding, playing video games, listening to music, and cooking. My favorite music artists include Isaiah Rashad, The Strokes, Tyler the Creator, and Danny Brown. </p>
@@ -50,9 +50,17 @@
     </td>
 </tr>
 <tr>
-    <td><img src="images/Yue_picture.png" width="300" alt="Anokhi Profile Picture"></td>
+    <td><img src="images/Yue_picture.png" width="300" alt="Yue Profile Picture"></td>
     <td>
     <h2>Yue Zhuo</h2>
     <p>Hi, my name is Yue Zhuo and I'm a team member of Group 18. This is my second year at UCSD. My major is Computer Engineering. My hobby is watching movies and listening to the music. My favorite movie is Avatar. My favorite movie star is Jackie Chan.</p>
     </td>
 </tr>
+<tr>
+    <td><img src="images/Avinash.png" width="300" alt="Avinash Profile Picture"></td>
+    <td>
+    <h2>Avinash Nayak</h2>
+    <p>My name is Avinash Nayak, and I'm a second year CS major at UCSD. During my free time, I like to run, play basketball, watch TV/anime, and play video games; I also like to relax and listen to music as well while working.</p>
+    </td>
+</tr>
+
