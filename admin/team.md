@@ -31,7 +31,7 @@
     <td>
     <h2>Matthew Jiang</h2>
     <p>Hello, I'm Matthew Jiang, a third year CS major. When I'm not busy with school, I have a couple of uninteresting hobbies like playing video games (especially rhythm games), going jogging, and watching random interesting videos on the internet. </p>
-        <a href="https://mmjiang-ucsd.github.io/">Link to GitHub Page</a>
+    <a href="https://mmjiang-ucsd.github.io/">Link to GitHub Page</a>
 </tr>
 <tr>
     <td><img src="images/sergiot_pic.png" width="300" alt="Sergio Profile Picture"></td>
@@ -62,5 +62,6 @@
     <h2>Avinash Nayak</h2>
     <p>My name is Avinash Nayak, and I'm a second year CS major at UCSD. During my free time, I like to run, play basketball, watch TV/anime, and play video games; I also like to relax and listen to music as well while working.</p>
     </td>
+    <a href="https://anayak0824.github.io/Lab-1/">Link to GitHub Page</a>
 </tr>
 
