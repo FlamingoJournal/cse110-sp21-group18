@@ -38,6 +38,7 @@
     <td>
     <h2>Sergio Talavera</h2>
     <p>Hi, my name is Sergio Talavera and I'm a team member of Group 18. I'm a second year transfer student majoring in Computer Engineering. Some of my hobbies include skateboarding, playing video games, listening to music, and cooking. My favorite music artists include Isaiah Rashad, The Strokes, Tyler the Creator, and Danny Brown. </p>
+    <a href="https://stalaver.github.io/">Link to GitHub Page</a>
     </td>
 </tr>
 <tr>
