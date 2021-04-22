@@ -26,4 +26,4 @@
   - Fully decided power point theme
   - Decided Main Core Principles
   - Decided priority of what we want to work on 
-* **Time:** Thursday 3:00 - 4:00 PM (PST)
+* **Time:** Tuesday 3:00 - 4:00 PM (PST)
