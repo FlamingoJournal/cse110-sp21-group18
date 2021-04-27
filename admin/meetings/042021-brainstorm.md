@@ -4,6 +4,7 @@
   - Kunal Singla
   - Amal Kaduwela
   - Yue Zhuo
+  - Anudeep Alam
   - Avinash Nayak
   - Matthew Jiang
   - Anokhi Mehta
