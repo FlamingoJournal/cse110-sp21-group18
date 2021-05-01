@@ -13,7 +13,7 @@
 * **Absent Members:**
   - None
 * **Meeting location:** Zoom
-* **Meeting Subject:** Roles and Personas
+* **Meeting Subject:** Brainstorm and Design
 * **Meeting Plan:**
   - Start Road Map
   - App Design Phase (Figma)
