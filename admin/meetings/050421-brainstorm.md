@@ -21,6 +21,8 @@
 * **Undiscussed Plans: (from last time)** 
   - N/A
 * **Meeting Decisions/Results:** Any decisions made & their reasoning (if there were dissenting opinions include them, then write why the group decided to make that decision anyways)
-  - Decided a lot of different ui choices (style and html elements), all on miro in red sticky notes
+  - Decided to use airBnB style guide since the github page is very easy to read. No strong feelings towards other style guides.
+  - Decided to remove the logs, personalization, key tab group because it is unnecesary
+  - Decided that front end team will create front page, and then backend will implement functionality. Front end will then move onto another template.
   - Decided first steps to most effectively begin working for sprint 1.
 * **Time:** Tuesday 3:00 - 4:00 PM (PST)
