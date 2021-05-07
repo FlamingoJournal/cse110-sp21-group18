@@ -1,0 +1,5 @@
+- Make a comment on the issue stating when you started working on the issue.
+- ***Create A New Branch With A Name Relating To The Issue.***
+- Make an HTML and JS file (as well as CSS if you want) in a directory with the name of the issue. This will allow us to organize the demos, as well as make unique web pages for each demo.
+- Add comments stating progress if you do not complete it in one sitting.
+- Close the issue when you have completed the issue successfully
