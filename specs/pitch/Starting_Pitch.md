@@ -11,29 +11,38 @@ In two weeks, we want to create a word processor embedded in a webpage, with the
 *Figure 1. Initial wireframe of interface*
 
 <div class="page"/>
+
 ---
 ## **Solution**
-### User Personas
+### **User Personas**
 <img src="../users/Anabelle.jpg" width="800px">
 <img src="../users/Mariana.jpg" width="800px">
 <img src="../users/Matt.jpg" width="800px">
 
+<div class="page"/>
+
 ---
-### High Fidelity Prototype Design
-*Daily Log:*
+### **High Fidelity Prototype Design**
+*Home Page:*<br>
+<img src="../interface/highfidelity/Home-Index.png" width="800px">
+
+*Daily Log:*<br>
 <img src="../interface/highfidelity/Daily.png" width="800px">
 
-*Weekly Log:*
+*Weekly Log:*<br>
 <img src="../interface/highfidelity/Weekly.png" width="800px">
 
-*Monthly Log:*
+*Monthly Log:*<br>
 <img src="../interface/highfidelity/Monthly.png" width="800px">
+
+*Future Log:*<br>
+<img src="../interface/highfidelity/Future.png" width="800px">
 
 <div class="page"/>
 
 ---
-### System Diagram
-<img src="../adrs/diagram.drawio.png" height="800px">
+### **System Diagram**
+<img src="../adrs/diagram.drawio.png" width="600px">
 
 <div class="page"/>
 
