@@ -9,7 +9,7 @@
 
 </head>
 
-<body align='center'>
+<body>
     <header>
         <h1>Tabs + Pop Up Window Demo</h1>
     </header>
@@ -23,7 +23,7 @@
         
 
             <div id="Daily" class="tabcontent">
-                <ul>
+                <ul id="daily_ul">
                     <li><a href="">May 1</a></li>
                     <li><a href="">May 2</a></li>
                     <li><a href="">May 3</a></li>
@@ -50,10 +50,11 @@
                 </ul>
             </div>
         </div>
-
+        <button type="button" onclick="addDay(event)">Add Day</button>
         <div>
             <form>
-                <a>Hello</a>
+                
+                
             </form>
         </div>
     </main>
