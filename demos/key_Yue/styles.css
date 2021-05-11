@@ -1,0 +1,40 @@
+button {
+    background-color: #98ddca; /* Green background */
+    border: 1px solid green; /* Green border */
+    color: black; /* White text */
+    font-size: 15px;  /* White text */
+    text-align: left;
+    width: 150px;
+    height: 30px;
+    margin: 10px;
+    display: block; /* Make the buttons appear below each other */
+    }
+    #button-group {
+    position: absolute;
+    top: 55%;
+    left: 0;
+    }
+    /* Add a background color on hover */
+    button:hover {
+    background-color: #3e8e41;
+    }
+    body {
+    align-items: center;
+    background-color: #EFECCA;
+    display: grid;
+    justify-items: center;
+    margin: 100px 0 0 0;
+    width: 100%;
+    }
+    #demo {
+        font-style: normal;
+        font-size: x-large;
+    }
+    #myText {
+        border: none;
+        outline: none;
+        width: 300px;
+        height: 30px;
+        font-size: x-large;
+    }
+    
