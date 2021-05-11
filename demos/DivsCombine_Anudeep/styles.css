@@ -1,0 +1,19 @@
+.box {
+    width: 200px;
+    height: 200px;
+    
+
+
+}
+
+div{
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: aqua;
+    display: table-cell;
+    margin: 0 auto;
+    
+
+
+}
