@@ -10,22 +10,24 @@
 
 <body>
 <h3>
-    Display an icon
+    Display an icon with text
 </h3>
-<div id="text-field">
+<p id="entry"></p>
+<div id="field_wrapper">
     <i id="demo"></i>
-    <input type="text" id="myText">
+    <input type="text" id="myText" placeholder="Enter your entry">
+    <button class="submit">Submit</button>
 </div>
-<div id="button-group">
-    <button type="button" value="&#9744;">&#9744;  INCOMPLETE</button> <!-- square -->
-    <button type="button" value="&#9745;">&#9745;  COMPLETE</button> <!-- square w/ check -->
-    <button type="button" value="&#9675;">&#9675;  EVENT</button>  <!-- circle -->
-    <button type="button" value="&#9679;">&#9679;  NOTE</button>  <!-- dot -->
-    <button type="button" value="&ndash;">&ndash;  IMPORTANT</button> <!-- dash -->
-    <button type="button" value="&#10033;">&#10033;  PRIORITY</button> <!-- star -->
-    <button type="button" value="&#10083;">&#10083;  HEART</button> <!-- heart -->
-    <button type="button" value="&#9888;">&#9888;  INSPIRATIONAL</button> <!-- exclamation mark -->
-    <button type="button" value="&#9992;">&#9992;  FLIGHT</button><!-- AIRPLANE  -->
+<div id="button-group"> <!--src= https://www.w3schools.com/charsets/ref_utf_dingbats.asp-->
+    <button type="button" value="&#9744;" class="buttonGroup">&#9744;  INCOMPLETE</button> <!-- square -->
+    <button type="button" value="&#9745;" class="buttonGroup">&#9745;  COMPLETE</button> <!-- square w/ check -->
+    <button type="button" value="&#9675;" class="buttonGroup">&#9675;  EVENT</button>  <!-- circle -->
+    <button type="button" value="&#9679;" class="buttonGroup">&#9679;  NOTE</button>  <!-- dot -->
+    <button type="button" value="&ndash;" class="buttonGroup">&ndash;  IMPORTANT</button> <!-- dash -->
+    <button type="button" value="&#10033;" class="buttonGroup">&#10033;  PRIORITY</button> <!-- star -->
+    <button type="button" value="&#10083;" class="buttonGroup">&#10083;  HEART</button> <!-- heart -->
+    <button type="button" value="&#9888;" class="buttonGroup">&#9888;  INSPIRATIONAL</button> <!-- exclamation mark -->
+    <button type="button" value="&#9992;" class="buttonGroup">&#9992;  FLIGHT</button><!-- AIRPLANE  -->
 </div>
 <script src="key.js"></script>
 </body>
