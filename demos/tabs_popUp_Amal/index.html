@@ -49,14 +49,42 @@
                     <li><a href="">July</a></li>
                 </ul>
             </div>
+
+
         </div>
         <button type="button" onclick="addDay(event)">Add Day</button>
-        <div>
-            <form>
+
+        <br>
+        <div class="column">
+            <div class="tab">
+                <button class="ddlinks" onclick="openDropDown(event, 'Daily')">Daily</button>
+                <button class="ddlinks" onclick="openDropDown(event, 'Weekly')">Weekly</button>
+                <button class="ddlinks" onclick="openDropDown(event, 'Monthly')">Monthly</button>
+            </div>
+        
+
+            <div id="Daily-2" class="select_content">
+                <div class="dropdown">
+                    <div id="myDropdown" class="dropdown-content">
+                      <a href="#">Link 1</a>
+                      <a href="#">Link 2</a>
+                      <a href="#">Link 3</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="Weekly-2" class="select_content">
                 
-                
-            </form>
+            </div>
+            
+            <div id="Monthly-2" class="select_content">
+               
+            </div>
+
+
+
         </div>
+
     </main>
     <footer>
 
