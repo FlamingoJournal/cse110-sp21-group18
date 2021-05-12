@@ -4,11 +4,6 @@ function classSwitch(id, oldClass, newClass){
     element.classList.add(newClass);
 }
 
-document.getElementById("menu").onclick = function(){    
-    if (this.value=="<") this.value = ">";
-    else this.value = "<";
-}
-
 document.getElementById("menu").onclick = function(){
     let sidebar = document.getElementById("sidebar");
     let img = document.getElementById("calendar");
