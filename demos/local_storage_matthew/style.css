@@ -1,0 +1,9 @@
+textarea {
+    resize: none;
+}
+
+#display:disabled {
+    background-color: white;
+    border-color: grey;
+    color: black;
+}
