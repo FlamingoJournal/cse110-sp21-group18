@@ -1,0 +1,26 @@
+#Uses JSDoc-action
+#https://github.com/marketplace/actions/jsdoc-action
+name: JSDoc
+
+on:
+  push:
+    branches:
+      - main #When do we want to create a JSDoc?
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Build
+        uses: andstor/jsdoc-action@v1
+        with:
+          source_dir: ./src           #Source directory to build documentation from.
+          output_dir: ./out           #Output folder for the generated documentation.   
+          #recurse: false              #Recurse into subdirectories when scanning for source files.
+          config_file: conf.json      #The path to a JSDoc configuration file.
+          #template:                   #The JSDoc template package to install. Will run npm install template.
+          #template-dir:               #The relative location of the template files directory within the template package.
+          #front_page:                 #The path to a Markdown file to be used as a the front page. Normally README.md.
