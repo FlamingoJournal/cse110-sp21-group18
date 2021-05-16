@@ -24,3 +24,10 @@ jobs:
           #template:                   #The JSDoc template package to install. Will run npm install template.
           #template-dir:               #The relative location of the template files directory within the template package.
           #front_page:                 #The path to a Markdown file to be used as a the front page. Normally README.md.
+
+      #Deployment example using pages, might want to change
+      # - name: Deploy
+      #   uses: peaceiris/actions-gh-pages@v3
+      #   with:
+      #     deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+      #     publish_dir: ./out
