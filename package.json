@@ -1,0 +1,32 @@
+{
+  "name": "cse110-sp21-group18",
+  "version": "1.0.0",
+  "description": "Using npm for dependencies",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cse110-sp21-group18/cse110-sp21-group18.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "eslint",
+    "prettier",
+    "jsdoc"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cse110-sp21-group18/cse110-sp21-group18/issues"
+  },
+  "homepage": "https://github.com/cse110-sp21-group18/cse110-sp21-group18#readme"
+}
