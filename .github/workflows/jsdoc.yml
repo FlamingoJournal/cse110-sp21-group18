@@ -1,0 +1,32 @@
+#Uses JSDoc-action
+#https://github.com/lee-dohm/atom-style-tweaks/blob/master/.github/workflows/publish-docs.yml
+#Alternative: https://github.com/marketplace/actions/jsdoc-action
+name: JSDoc
+
+on:
+  push:
+    branches:
+    - main
+name: Publish docs
+jobs:
+  publishProjectDocs:
+    name: Publish project documentation
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-elixir@v1
+      with:
+        otp-version: 22.x
+        elixir-version: 1.9.x
+    - name: Generate docs
+      uses: lee-dohm/generate-elixir-docs@v1
+      with:
+        tagVersionWithHash: true
+      env:
+        MIX_ENV: test
+    - name: Publish docs
+      uses: peaceiris/actions-gh-pages@v1.0.1
+      env:
+        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./doc
