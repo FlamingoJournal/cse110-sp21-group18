@@ -1,7 +1,6 @@
 #Uses JSDoc-action
 #https://github.com/lee-dohm/atom-style-tweaks/blob/master/.github/workflows/publish-docs.yml
 #Alternative: https://github.com/marketplace/actions/jsdoc-action
-name: JSDoc
 
 on:
   push:

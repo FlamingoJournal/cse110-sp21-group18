@@ -14,8 +14,7 @@ for deployment.
 
 For the future, we plan on looking into components to detect if we are missing important tests, such as 
 Coverall, but are still considering our options. We are also looking into how we want to test our code at
-this stage. As of right now, we will be using Travis CI for unit testing. In addition, we are also looking 
-into either using Codacy or CodeClimate for code review, which would allow for better automation.
+this stage, such as writing unit tests through Jest. As of right now, we will be using Travis CI for unit testing. In addition, we are also looking into either using Codacy or CodeClimate for code review, which would allow for better automation.
 
 Below we have our current pipeline for Phase 1, which includes plans for Travis CI and Unit Testing.
 
