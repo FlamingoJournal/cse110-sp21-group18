@@ -6,7 +6,7 @@ name: JSDoc
 on:
   push:
     branches:
-    - master
+    - main
 name: Publish docs
 jobs:
   publishProjectDocs:
