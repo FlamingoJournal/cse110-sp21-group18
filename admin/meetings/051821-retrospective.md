@@ -25,18 +25,22 @@
 
 
 * **What went well:**
-- Having a prototype up
-- Communication
+  - Having a prototype up
+  - Communication
 * **What didn't go well**
-- Lack of communication was detrimental for development
-- Too General in our spec, not specific enough for everyone to be on the same page
-- Lack of understanding of CSS
-- Standups being almost non-existence
+  - Lack of communication was detrimental for development
+  - Too General in our spec, not specific enough for everyone to be on the same page
+  - Lack of understanding of CSS
+  - Standups being almost non-existence
 * **Things to improve**
-- Start making github issues. with clear image examples and specific descriptions
-- Utilize Github conversations in issues and pull requests
-- Set up more meetings with the professor for guidance
-- Record important decisions
-- Integrate teams for bigger programming meetings. (ex: Frontend members in backend meeting and vice versa)
-- Smaller groups to develop code
-- Throw out the collapsable sidebar; Static Sidebar
+  - Start making github issues. with clear image examples and specific descriptions
+  - Utilize Github conversations in issues and pull requests
+  - Set up more meetings with the professor for guidance
+  - Record important decisions
+  - Integrate teams for bigger programming meetings. (ex: Frontend members in backend meeting and vice versa)
+  - Smaller groups to develop code
+  - Throw out the collapsable sidebar; Static Sidebar
+* **Team Radar "Work Happiness"**
+<br>
+<img src="Images/Sprint%201%20-%20Work%20Happiness%20-%20Average.jpg" width="800px"/>
+<img src="Images/Sprint%201%20-%20Work%20Happiness%20-%20Range.jpg" width="800px"/>
