@@ -7,10 +7,10 @@
   - Anokhi Mehta
   - Angel Martinez
   - Sergio Talavera
-  - Anudeep Alam
+  - Anudeep Alam - Did not speak during this 30min meeting
   - Avinash Nayak
 * **Absent Members:**
-  - Matthew Jiang
+  - Matthew Jiang (time conflict)
 * **Meeting location:** Zoom
 * **Meeting Subject:** Sprint Review
 * **Meeting Plan:**
