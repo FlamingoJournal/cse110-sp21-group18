@@ -71,9 +71,11 @@ function fetchData(){
     if (localStorage.getItem("data")){
         let data = JSON.parse(localStorage.getItem("data"));
         first_entry.value = data[0];
+        first_entry.style.height = first_entry.scrollHeight + 'px';
         for (let i = 1; i < data.length; i++){
             addNewEntry();
             main.lastElementChild.value=data[i];
+            main.lastElementChild.style.height = main.lastElementChild.scrollHeight + 'px';
         }
     }
 }
