@@ -1,6 +1,6 @@
 # How to design the center element where information goes
 
-* Status: accepted
+* Status: depricated
 * Deciders: Everyone
 * Date:  5/5/2021
 
