@@ -1,0 +1,15 @@
+# BACKLOG (A collection of ideas for future implementation)
+- Rework Add New Log System (Automatically create logs instead of user press)
+- Add more features to the settings modal
+- Add A Clear Data Button, in case someone wants to clear their log history
+- Add A collections tab/Trackers
+- Abstract 1 level to be able to have multiple journals
+- Add more color palettes/allow for custom colors (colorpicker?)
+- Add migration 
+- Add pin/password System for privacy
+- Add ability to upload media to logs
+- Add Markdown support to textareas
+- Add animations to more smoothly switch between pages
+- Rework the key system to be more integrated into text editing
+- Add text personalization tool (font, font size, bold, etc...)
+- Add Service Workers for offline viewing

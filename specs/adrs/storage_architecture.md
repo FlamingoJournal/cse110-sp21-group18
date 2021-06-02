@@ -1,6 +1,6 @@
 # Storage Architecture
 
-* Status: accepted
+* Status: depricated
 * Deciders: Back End Team
 * Date:  5/16/2021
 
