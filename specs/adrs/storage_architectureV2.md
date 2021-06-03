@@ -18,19 +18,27 @@ daily = [
         '6/2/2021':['today i ...'],
         ]
 
+All of these examples are in year 2021
+
 weekly = [
-        '2021may01': [[monday's text], [tuesday's text], ...],
-        '2021may02': [[monday's text], [tuesday's text], ...],
+        '202111': [week one monday's text],
+        '202112': [week one tuesday's text],
+        ...
+        '202121': [week two tuesday's text],
         ]
 
 monthly = [
-        'may2021':[[week 1 text], [week 2 text], ...], 
-        'june2021': [[week 1 text], [week 2 text], ...],
+        '202111': [Month 1 week 1],
+        '202112': [Month 1 week 2],
+        ...
+        '202121': [Month 2 week 1],
         ]
 
 future = [
-        '2021_01': [[jan text], [feb text]],
-        '2021_02':[[jun text], [july text]],
+        '202111': [First Half of the Year, Month 1],
+        '202112': [First Half of the Year, Month 2],
+        ...
+        '202121': [Second Half of the Year, Month 1],
         ]
 
 mostRecent = [daily, weekly, monthly, future]
