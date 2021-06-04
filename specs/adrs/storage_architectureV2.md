@@ -14,31 +14,31 @@ The values will have nested arrays, since a page can have multiple bulletEntry i
 
 ## IndexedDB
 daily = [
-        '6/1/2021':{1:['today i ..., bake a cake']},
-        '6/2/2021':{1:['today i ...']},
+        'June 3, 2021':{1:['today i ..., bake a cake']},
+        'June 4, 2021':{1:['today i ...']},
         ]
 
 All of these examples are in year 2021
 
 weekly = [
-        '2021011': {1:['today i ..., bake a cake'], 2:['', ...] ..., 7:['', ...]}, <-- month 1 week 1
-        '2021012': {1:['today i ..., bake a cake'], 2:['', ...] ..., 7:['', ...]}, <-- month 1 week 2
+        'Week 1, June 2021': {1:['today i ..., bake a cake'], 2:['', ...] ..., 7:['', ...]}, 
+        'Week 2, June 2021': {1:['today i ..., bake a cake'], 2:['', ...] ..., 7:['', ...]}, 
         ...
-        '2021023': {1:['today i ..., bake a cake'], 2:['', ...] ..., 7:['', ...]}, <-- month 2 week 3
+        'Week 5, June 2021': {1:['today i ..., bake a cake'], 2:['', ...] ..., 7:['', ...]}, 
         ]
 
 monthly = [
-        '202101': {1:['', ...], 2:['', ...], ... 5:['', ...]}, <-- Month 1 
-        '202102': {1:['', ...], 2:['', ...], ... 5:['', ...]}, <-- Month 1 
+        'June 2021': {1:['', ...], 2:['', ...], ... 5:['', ...]},
+        'July 2021': {1:['', ...], 2:['', ...], ... 5:['', ...]},  
         ...
-        '202112': {1:['', ...], 2:['', ...], ... 5:['', ...]}, <-- Month 12 
+        'December 2021': {1:['', ...], 2:['', ...], ... 5:['', ...]},
         ]
 
 future = [
-        '20211': {1:['', ...], 2:['', ...], ... 6:['', ...]}, <--First Half of the Year 2021
-        '20212': {1:['', ...], 2:['', ...], ... 6:['', ...]}, <--Second Half of the Year 2021
+        'January - June, 2021': {1:['', ...], 2:['', ...], ... 6:['', ...]}, 
+        'July - December, 2021': {1:['', ...], 2:['', ...], ... 6:['', ...]}, 
         ...
-        '20221': {1:['', ...], 2:['', ...], ... 6:['', ...]}, <--First Half of the Year 2022
+        'January - June, 2022': {1:['', ...], 2:['', ...], ... 6:['', ...]}, 
         ]
 
 mostRecent = [daily, weekly, monthly, future]
