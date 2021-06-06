@@ -2,6 +2,9 @@
 ## About
 This organization is for the "Bullet Journaling" project for CSE 110 of Spring 2021 at UCSD. This project will aim to improve our abilities as software engineers and work together to create a software project.
 
+## Flamingo Journal App
+For more information regarding our app, please visit the [app repository](https://github.com/cse110-sp21-group18/Bullet-Journal-App).
+
 # Repository Directory
 - [Link to Team Page](admin/team.md)
 - [Admin](admin/)
