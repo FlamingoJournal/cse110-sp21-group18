@@ -17,7 +17,7 @@ For more information regarding our app, please visit the [app repository](https:
 - [Specifications](specs/)
   - [ADRS](specs/adrs/)
   - [Brainstorm](specs/brainstorm/)
-  - [Interface](specs/adrs)
+  - [Interface](specs/interface/)
     - [High Fidelity Design](specs/interface/highfidelity/)
     - [Rough Design](specs/interface/rough/)
     - [Wireframe Design](specs/interface/wireframes/)
