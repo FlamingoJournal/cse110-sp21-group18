@@ -13,6 +13,10 @@ For more information regarding our app, please visit the [app repository](https:
   - [Meeting Minutes](admin/meetings/) - contains all notes taken at every full team meeting conducted this quarter.
   - [Standups](admin/standup/standup.md) - contains standups for each team member. Data exported from [GeekBot](https://geekbot.com/) Slack App.
   - [Team Videos](admin/videos/) - contains videos related to our team and updates for our project.
+    - [Team Intro Video](https://www.youtube.com/watch?v=G6vgoQyO6ks)
+    - [Status Video 1](admin/videos/statusvideo1.mp4)
+    - [Final Project Video - Public Version](https://youtu.be/v79h4i7QdvA)
+    - [Final Project Video - Private Version](https://youtu.be/Z2rwLu3APQQ)
 - [Demos](demos/)
   - This folder demos contains demos created by various member during the beginning of the project to test out certain key features and components of our webapp.
 - [Specifications](specs/)
