@@ -1,9 +1,13 @@
 # CSE110-SP21-Group18
 ## About
-This organization is for the "Bullet Journaling" project for CSE 110 of Spring 2021 at UCSD. This project will aim to improve our abilities as software engineers and work together to create a software project.
+This organization is for the "Bullet Journaling" project for CSE 110 of Spring 2021 at UCSD. This project will aim to improve our abilities as software engineers and work together to create a software project. This repository contains the documentation of our development process for Flamingo Journal.
 
 ## Flamingo Journal App
 For more information regarding our app, please visit the [app repository](https://github.com/cse110-sp21-group18/Bullet-Journal-App).
+
+## Prototyping and Development Decision
+- We used [Miro](https://miro.com/app/board/o9J_lJNJRJw=/), an online whiteboarding/visualization when developing our project. Here is a link to our [Miro Whiteboard.](https://miro.com/app/board/o9J_lJNJRJw=/)
+- We also used [Figma](https://www.figma.com/file/2mqMSTfvM2KBocoj5mC79J/The-Frontend-Flamingos-Bullet-Journal?node-id=0%3A1), an online product design platform. We used this to prototype our web-app design. Here is a link to our [Figma Document](https://www.figma.com/file/2mqMSTfvM2KBocoj5mC79J/The-Frontend-Flamingos-Bullet-Journal?node-id=0%3A1).
 
 # Repository Directory
 - [Link to Team Page](admin/team.md)
